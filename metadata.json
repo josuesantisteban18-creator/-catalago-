@@ -1,0 +1,6 @@
+{
+  "name": "UrbanVibes - Sistema E-Commerce & Ads Manager",
+  "description": "Sistema integral de E-Commerce y Gestión de Campañas Social Media Ads, Funnel TOFU-MOFU-BOFU y CRM HubSpot para UrbanVibes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
